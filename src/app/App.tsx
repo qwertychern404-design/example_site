@@ -77,15 +77,6 @@ const models = [
     avatar:
       "https://images.unsplash.com/photo-1623594675959-02360202d4d6?w=80&h=80&fit=crop",
   },
-  {
-    id: 4,
-    name: "Kaori",
-    karma: 356,
-    subscribers: 15,
-    posts: 16,
-    avatar:
-      "https://images.unsplash.com/photo-1649589244330-09ca58e4fa64?w=80&h=80&fit=crop",
-  },
 ];
 
 const shifts = [
