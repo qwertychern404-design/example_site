@@ -52,7 +52,7 @@ const chartData = [
 const models = [
   {
     id: 1,
-    name: "Luna",
+    name: "Sakura",
     karma: 567,
     subscribers: 34,
     posts: 24,
@@ -61,7 +61,7 @@ const models = [
   },
   {
     id: 2,
-    name: "Mia",
+    name: "Megan",
     karma: 489,
     subscribers: 28,
     posts: 21,
@@ -70,7 +70,7 @@ const models = [
   },
   {
     id: 3,
-    name: "Alexa",
+    name: "Mimi",
     karma: 412,
     subscribers: 19,
     posts: 18,
@@ -79,7 +79,7 @@ const models = [
   },
   {
     id: 4,
-    name: "Emma",
+    name: "Kaori",
     karma: 356,
     subscribers: 15,
     posts: 16,
