@@ -1024,7 +1024,7 @@ export default function App() {
                     Колесо фортуны
                   </p>
                   <p className="text-sm text-gray-400">
-                    Доступно в понедельник
+                    Доступно в понедельник при выполнении всех заданий
                   </p>
                 </div>
               </motion.div>
