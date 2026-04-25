@@ -698,9 +698,7 @@ export default function App() {
             ))}
           </div>
           <p className="text-xs text-gray-500 bg-purple-500/5 p-3 rounded-lg border border-purple-500/10">
-            💡 Смена считается отработанной при 25 ≤ постов &lt;
-            35. Прогрев — от 15 до 24 постов. Менее 15 — не
-            засчитывается.
+            💡 Смена считается отработанной при 30+ постов.
           </p>
         </motion.div>
       </div>
