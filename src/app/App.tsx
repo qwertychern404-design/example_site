@@ -510,7 +510,7 @@ export default function App() {
                 Динамика за 7 дней
               </h3>
               <div className="flex gap-2">
-                {["Карма", "Подписчики", "Посты"].map((tab) => (
+                {["Карма", "Лиды", "Посты"].map((tab) => (
                   <button
                     key={tab}
                     onClick={() =>
